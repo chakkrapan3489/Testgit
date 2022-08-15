@@ -12,6 +12,11 @@ class Start
         return a+b;
     }
     
+    public static int Muti(int a,int b)
+    {
+        return a*b;
+    }
+    
    
 }
 
